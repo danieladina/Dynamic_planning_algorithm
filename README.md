@@ -7,4 +7,5 @@ like lcs, lis , mothyhall bob  &alice game and etc
 
 
 req-
-math.random
+pip install numpy
+you my need to install 'typing' if you use old version(probably not)
